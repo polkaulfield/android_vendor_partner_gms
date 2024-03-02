@@ -4,6 +4,5 @@ PRODUCT_PACKAGES += \
 	FakeStore \
 	IchnaeaNlpBackend \
 	NominatimGeocoderBackend \
-	FDroid \
-	FDroidPrivilegedExtension \
-	additional_repos.xml
+	Droid-ify \
+	MulchWebview
